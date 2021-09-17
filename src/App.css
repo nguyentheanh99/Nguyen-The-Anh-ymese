@@ -1,0 +1,56 @@
+@import '~antd/dist/antd.css';
+.px-1 {
+    padding: 0px 1px !important;
+}
+
+.my-20 {
+    margin: 20px 0px;
+}
+
+.txt_end {
+    text-align: end;
+}
+
+.txt_start {
+    text-align: start;
+}
+
+.txt_center {
+    text-align: center;
+}
+
+.pl-4 {
+    padding-left: 2px !important;
+}
+
+.pr-5 {
+    padding-right: 5px !important;
+}
+
+.border-5 {
+    border-radius: 5px;
+}
+
+.flex-1 {
+    flex: 1;
+}
+
+.font-weight-600 {
+    font-weight: 600;
+}
+
+.w-300 {
+    width: 300px
+}
+
+.center {
+    justify-content: center;
+}
+
+.mt-10 {
+    margin-top: 10px;
+}
+
+.mb-10 {
+    margin-bottom: 10px;
+}

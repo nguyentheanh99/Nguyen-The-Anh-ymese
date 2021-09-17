@@ -1,0 +1,28 @@
+.img__logo__air {
+    height: 25px;
+    margin-top: 10px;
+    margin-left: 20px;
+}
+
+.time__flight {
+    font-size: 20px;
+    font-weight: 600;
+}
+
+.address__flight {
+    font-size: 16px;
+}
+
+.intend__time {
+    font-weight: 600;
+}
+
+.way {
+    font-size: 13px;
+    font-weight: 500;
+    color: red;
+}
+
+.line img {
+    height: 15px;
+}

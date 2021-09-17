@@ -1,0 +1,40 @@
+.card__option {
+    background-color: #fff;
+    padding-left: 15px;
+    height: 120px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.card__option_choose {
+    background-color: #0E2756;
+    padding-left: 15px;
+    height: 120px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    color: #fff;
+}
+
+.card__option_choose .txt__price,
+.card__option_choose .time__option {
+    color: #fff;
+}
+
+.title__option {
+    font-weight: 500;
+}
+
+.txt__price {
+    color: #6395E4;
+    font-weight: 700;
+    font-size: 18px;
+    margin-top: 5px;
+}
+
+.time__option {
+    font-size: 12px;
+    font-weight: 500;
+    color: #555;
+}
